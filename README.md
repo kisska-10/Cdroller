@@ -205,4 +205,4 @@ CDRoller is available as a **full free version**, providing **all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-12 02:07:48 UTC
+**Last updated:** 2026-10-12 10:22:31 UTC
